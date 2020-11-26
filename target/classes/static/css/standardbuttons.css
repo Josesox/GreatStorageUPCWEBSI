@@ -1,0 +1,17 @@
+.btn-add {
+    background-color: #76D52C;
+}
+
+.btn-add:hover, .btn-add:focus, .btn-add:active, .btn-add.active, .open > .dropdown-toggle.btn-add {
+    background-color: #82EB31 !important;
+}
+
+.btn-exit {
+    background-color: #30A43C;
+    color: white;
+}
+
+.btn-exit:hover, .btn-exit:focus, .btn-exit:active, .btn-exit.active, .open > .dropdown-toggle.btn-exit {
+    background-color: #3BCC4A !important;
+    color: white;
+}
